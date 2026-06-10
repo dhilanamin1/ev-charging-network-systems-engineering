@@ -4,6 +4,9 @@
 
 **Author:** Dhilan Amin
 
+## About this repo:
+Built over summer 2026 as a self-directed systems engineering project
+
 ---
 
 ## Project Summary
