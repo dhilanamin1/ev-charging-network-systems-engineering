@@ -61,7 +61,7 @@ Each requirement traces back to a stakeholder need and forward to a verification
 
 ## Deliverables Status
 
-- [ ] Concept of Operations
+- [X] Concept of Operations
 - [ ] Stakeholder Needs
 - [ ] System Requirements
 - [ ] System Architecture
