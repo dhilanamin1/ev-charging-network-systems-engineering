@@ -62,8 +62,8 @@ Each requirement traces back to a stakeholder need and forward to a verification
 ## Deliverables Status
 
 - [X] Concept of Operations
-- [ ] Stakeholder Needs
-- [ ] System Requirements
+- [X] Stakeholder Needs
+- [X] System Requirements
 - [ ] System Architecture
 - [ ] Trade Study & Risk Register
 - [ ] Verification & Validation Matrix
